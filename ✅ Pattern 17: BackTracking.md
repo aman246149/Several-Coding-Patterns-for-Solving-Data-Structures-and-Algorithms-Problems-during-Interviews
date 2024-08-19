@@ -1,4 +1,5 @@
 
+
 Backtracking used for to get all possible solutions.
 
 ```
@@ -85,7 +86,24 @@ Output 1:
 
 Output 2:
 
-[ [2, 2, 3] , [7] ]
+[ [2, 2, 3], [7] ]
 
 ![image](https://github.com/user-attachments/assets/8d5d7fdd-b505-4cde-aa50-12084f495ae8)
+
+**Combination Sum2**
+Only diff in combination sum and this problem is duplicate not allowed so we move to next index asap
+
+Input and output
+![image](https://github.com/user-attachments/assets/ca4e43aa-ee52-4837-b970-4bea3e0718cf)
+
+![image](https://github.com/user-attachments/assets/efe1c936-ba27-4522-925b-eec376c6fd59)
+
+**SubSet2**
+The only difference between this and the subset problem is, here we store results in set to avoid duplicates while in the set question we used ArrayList to get all subsets including duplicates
+Input
+![image](https://github.com/user-attachments/assets/6eb69ee9-7807-44e7-a5f9-a6f5e82ca8db)
+
+![image](https://github.com/user-attachments/assets/1c500ee1-1200-4d9a-9d44-2aca157c7701)
+
+
 
