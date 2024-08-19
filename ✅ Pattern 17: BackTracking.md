@@ -14,3 +14,11 @@ void backtrack(arguments) {
 	}
 }
 ```
+**Popular Questions**
+
+ 1. [All Possible Combinations](https://www.interviewbit.com/problems/all-possible-combinations/)
+ 2. [Subset](https://www.interviewbit.com/problems/subset/)
+ 3. [Combination Sum](https://www.interviewbit.com/problems/combination-sum/)
+ 4. [Combination Sum 2](https://www.interviewbit.com/problems/combination-sum-ii/)
+ 5. [Combinations](https://www.interviewbit.com/problems/combinations/)
+ 6. [Subset2](https://www.interviewbit.com/problems/subsets-ii/)
